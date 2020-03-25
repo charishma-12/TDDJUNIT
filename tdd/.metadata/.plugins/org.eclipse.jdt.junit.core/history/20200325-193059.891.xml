@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RemoveA" project="tddjunit" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="com.epam.tddjunit.RemoveA" time="0.002">
+    <testcase name="testString1" classname="com.epam.tddjunit.RemoveA" time="0.001"/>
+    <testcase name="testString2" classname="com.epam.tddjunit.RemoveA" time="0.001"/>
+    <testcase name="testString3" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString4" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString5" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString6" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString7" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString8" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+    <testcase name="testString9" classname="com.epam.tddjunit.RemoveA" time="0.0"/>
+  </testsuite>
+</testrun>
